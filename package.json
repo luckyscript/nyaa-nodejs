@@ -1,0 +1,23 @@
+{
+  "name": "nyaa-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyscript/nyaa-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyscript/nyaa-nodejs/issues"
+  },
+  "homepage": "https://github.com/luckyscript/nyaa-nodejs#readme",
+  "dependencies": {
+    "nan": "^2.11.0",
+    "node-addon-api": "^1.4.0"
+  }
+}
